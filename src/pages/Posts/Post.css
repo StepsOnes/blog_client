@@ -1,0 +1,6 @@
+.post-text__card {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    max-height: 70px;
+}
